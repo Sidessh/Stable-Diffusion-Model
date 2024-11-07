@@ -1,7 +1,3 @@
-Here’s a sample **README.md** file for your GitHub project:
-
----
-
 # Custom Stable Diffusion Generator
 
 This project implements a custom Stable Diffusion model using key components like **UNet**, **CLIP**, and **VAE** for text-to-image synthesis. The model leverages a deep learning pipeline to generate high-quality, detailed images from textual prompts, allowing for a variety of creative image generation tasks.
